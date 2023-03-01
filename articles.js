@@ -62,10 +62,10 @@ export const causes= [
         from:'causes',
         name: "Habitat Loss",
         img:'https://images.pexels.com/photos/5840711/pexels-photo-5840711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-        about1: 'Habitat loss is a major threat to species survival and competition. In fact, it is estimated that habitat loss contributes to over 30% of species extinction worldwide. As habitat loss continues to rise, so does competition between species, as the fewer resources available are increasingly contested. ',
-        about2:`The primary cause of habitat loss is human activity. The ever-increasing population has led to the clearing of forests and other ecosystems, either for conversion to agricultural land, or for urban development. As agricultural and industrial activities expand, they destroy natural habitats, leaving less suitable space for wildlife to inhabit.`,
-        about3:`Furthermore, climate change and environmental degradation are contributing to the loss of natural habitats. Global warming has caused major disruption to many ecosystems, resulting in extreme weather events and prolonged droughts that reduce the quality of habitats. Environmental pollution, such as water and air pollution, is also reducing the quality of habitats, making them less suitable for wildlife.`,
-        about4:`The consequences of habitat loss go beyond competition between species. As habitats are destroyed, many species are forced to migrate to other areas, often leading to conflict with other species. The destruction of an entire ecosystem can also have an impact on global biodiversity, as the loss of a single species can disrupt the entire balance of the ecosystem. It is clear that habitat loss is a major threat to species survival, and that it is essential to take action to protect natural habitats and ecosystems. Conservation efforts, such as the establishment of protected areas, can help to reduce the rate of habitat loss and protect existing species from extinction. However, this will require a collective effort from governments, businesses and individuals.`,
+        about2: 'Habitat loss is a major threat to species survival and competition. In fact, it is estimated that habitat loss contributes to over 30% of species extinction worldwide. As habitat loss continues to rise, so does competition between species, as the fewer resources available are increasingly contested. ',
+        about3:`The primary cause of habitat loss is human activity. The ever-increasing population has led to the clearing of forests and other ecosystems, either for conversion to agricultural land, or for urban development. As agricultural and industrial activities expand, they destroy natural habitats, leaving less suitable space for wildlife to inhabit.`,
+        about4:`Furthermore, climate change and environmental degradation are contributing to the loss of natural habitats. Global warming has caused major disruption to many ecosystems, resulting in extreme weather events and prolonged droughts that reduce the quality of habitats. Environmental pollution, such as water and air pollution, is also reducing the quality of habitats, making them less suitable for wildlife.`,
+        about5:`The consequences of habitat loss go beyond competition between species. As habitats are destroyed, many species are forced to migrate to other areas, often leading to conflict with other species. The destruction of an entire ecosystem can also have an impact on global biodiversity, as the loss of a single species can disrupt the entire balance of the ecosystem. It is clear that habitat loss is a major threat to species survival, and that it is essential to take action to protect natural habitats and ecosystems. Conservation efforts, such as the establishment of protected areas, can help to reduce the rate of habitat loss and protect existing species from extinction. However, this will require a collective effort from governments, businesses and individuals.`,
         img2:'https://images.pexels.com/photos/2698880/pexels-photo-2698880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
       },
       {
@@ -89,7 +89,7 @@ export const causes= [
         about5:`In order for species to remain healthy and sustainable, it is important to keep fishing and hunting activities within sustainable limits. By doing so, we can ensure that populations have the opportunity to maintain their genetic diversity and keep the food chain in balance. Furthermore, most species are protected by legislation, so it is important to be aware of the regulations set for the fishing and hunting of a particular species.`
          },
          {
-          id:'9',
+          id:9,
           from:'causes',
           name:'natural disasters',
           img:'https://images.pexels.com/photos/4070727/pexels-photo-4070727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
@@ -98,7 +98,24 @@ export const causes= [
           about4: `The indirect effects of natural disasters can also be devastating for wildlife. Food shortages, water contamination, and displacement of species can all have dire consequences on animal populations. In addition, the release of pollutants from natural disasters can have long-term effects on the environment and the species that inhabit it.`,
           about5:`In order to minimize the damage caused by natural disasters, it is important to be prepared for them. This includes building homes, roads, and infrastructure in locations that are less likely to be affected by these events, as well as creating emergency evacuation plans for people and animals. It is also important to conserve habitats, as well as create protected areas for species that are vulnerable to natural disasters. This will help to reduce the destruction that these events can cause, and protect the species that call these habitats home.`,
           img2:'https://images.pexels.com/photos/10235226/pexels-photo-10235226.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
-         }
+         },
+          {
+    id:10,
+    from :'causes',
+    name:'Ocean acidification',
+    img:'https://images.pexels.com/photos/3410956/pexels-photo-3410956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+     about2:`Ocean acidification is a serious problem that is threatening coral reefs, marine species, and the entire ocean ecosystem. It is caused by the increasing levels of carbon dioxide (CO2) in the atmosphere which dissolves into the ocean and forms carbonic acid. This acidity increases the hydrogen ion concentration in the water, making the ocean become increasingly more acidic.`,
+     about3:`We must take immediate action to reduce CO2 emissions and mitigate the effects of ocean acidification. Here are some effective strategies that we can use`,
+     first:`Reduce Carbon Emissions:`,
+     about4:` Because of human activities the levels of carbon dioxide have increased in the atmosphere, and that means there is more Carbon dioxide dissolving into the ocean.One of the most effective ways to reduce ocean acidification is to reduce carbon emissions from factories, cars, and other sources. We can do this by investing in renewable energy sources, such as wind and solar, and using energy-efficient technologies. We can also make changes to the way our products are manufactured, to reduce their carbon footprint.`,
+     second:'Protect Coastal Ecosystems',
+     about5:`Coastal ecosystems are essential for the health of the ocean. Healthy ecosystems provide a natural buffer against acidification, allowing them to absorb and reduce the impact of acidic waters. We can protect coastal ecosystems by conserving wetlands, mangroves, and seagrass beds. We can also use “no-take” or “catch-and-release” policies to protect species populations in the oceans.`,
+     third:'Restore Coral Reefs:',
+     about6:`Coral reefs are some of the most biodiverse ecosystems on Earth, and they are also highly vulnerable to ocean acidification. To restore them, we must reduce the amount of acidity in the water and protect them from damages caused by human activities. We can do this by reducing our use of fertilizers and other pollutants, establishing marine protected areas, and replanting damaged reefs.`,
+     about7:`We must take action now to protect our oceans from the effects of ocean acidification. By reducing carbon emissions, protecting coastal ecosystems, and restoring coral reefs, we can create a healthier, more sustainable future for our oceans.`,
+     img2:`https://images.pexels.com/photos/3044473/pexels-photo-3044473.jpeg?auto=compress&cs=tinysrgb&w=600`
+
+  }
          //        {
          //  id:'',
          //  from:'',
@@ -121,9 +138,11 @@ export const Nature =[
 
 
                {
-           id:'1',
+           id:1,
          from:'Nature',
            img: "https://images.pexels.com/photos/4751260/pexels-photo-4751260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+           img2:`https://images.pexels.com/photos/3714902/pexels-photo-3714902.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+           img3:`https://images.pexels.com/photos/13001719/pexels-photo-13001719.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
          name:'Our World',
           about2:'Humans are, without a doubt, the most advanced and powerful species to inhabit planet Earth. We have been blessed with intelligence and the drive to develop technologies that have enabled us to live in comfort and relative ease. But, in our pride and ambition, we tend to forget that we are not the only species that inhabits this world.',
            about3:'Animals are the oldest inhabitants of our planet, and they have been here far longer than we have. In fact, it was animals that evolved into the first humans, forming an important link between our species. Animals still play a vital role in keeping the planet in balance: insects pollinate crops, predators keep prey populations in check, and aquatic life helps regulate our oceans.',
@@ -155,6 +174,8 @@ export const Nature =[
         from:'Nature',
         name:'Bio Diversity',
         img:'https://images.pexels.com/photos/1700731/pexels-photo-1700731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        img2:`https://images.pexels.com/photos/1328313/pexels-photo-1328313.jpeg?auto=compress&cs=tinysrgb&w=600`,
+        img3:`https://images.pexels.com/photos/7211438/pexels-photo-7211438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
         about1:"What is Biodiversity?",
         about2:" Biodiversity, or biological diversity, is the variety of living organisms found in a given area. It is made up of ecosystems, species, and genetic diversity. Biodiversity is a critical part of the natural environment, and its loss can have significant effects on an ecosystems",
         first:' There are 3 types of Biodiversity',
@@ -177,18 +198,25 @@ export const Nature =[
         from:'Nature',
         name:'Ecosystem',
         img:'https://images.pexels.com/photos/6272257/pexels-photo-6272257.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        img2:`https://images.pexels.com/photos/4577542/pexels-photo-4577542.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+        img3:`https://images.pexels.com/photos/5175257/pexels-photo-5175257.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
         about1:"What is an Ecosystem?",
         about2:"An ecosystem consists of the living organisms in a given area, interacting with each other and with the physical environment. This includes both biotic and abiotic components. Biotic components refer to the organisms that make up an ecosystem, while abiotic components are the non-living parts such as the climate, soil, sunlight, and water.",
         first:'Types of Ecosystems ',
-        about4:`There are many different types of ecosystems, each with its own unique characteristics. The most common types are marine, freshwater, grassland, desert, forest, and tundra ecosystems. Marine ecosystems are those that exist in saltwater or brackish environments, such as oceans, estuaries, and coral reefs. Freshwater ecosystems are found in sources of freshwater, such as lakes, rivers, and streams. Grassland ecosystems are characterized by predominantly grassy vegetation, while desert ecosystems are characterized by arid conditions and sparse vegetation. Forest ecosystems are composed of trees and other woody plants, while tundra ecosystems are characterized by cold temperatures and a lack of trees.`,
+        about4:`There are many different types of ecosystems, each with its own unique characteristics. The most common types are marine, freshwater, grassland, desert, forest, and tundra ecosystems. `,
+        about5a:`• Marine ecosystems are those that exist in saltwater or brackish environments, such as oceans, estuaries, and coral reefs.`,
+        about5b:`• Freshwater ecosystems are found in sources of freshwater, such as lakes, rivers, and streams.`,
+        about5c:`• Grassland ecosystems are characterized by predominantly grassy vegetation, while desert ecosystems are characterized by arid conditions and sparse vegetation.`,
+        about5d:`• Forest ecosystems are composed of trees and other woody plants, while tundra ecosystems are characterized by cold temperatures and a lack of trees.`,
         third:'Threats to Ecosystems',
-        about6:`Ecosystems are under constant threat due to human activities such as pollution, deforestation, and overfishing. These activities disrupt the balance of the ecosystem and can lead to decreased biodiversity, decreased species populations, and increased risk of extinction. In addition to human activities, other threats to ecosystems include climate change, disease, and invasive species. Climate change causes shifts in temperature and precipitation patterns, affecting the habitats and species that can survive in a given area. Diseases can spread quickly and cause large declines in population sizes. Invasive species can outcompete native species for food and territory, reducing biodiversity and impacting native species populations. `,
-        fourth:'Species Diversity',
-        about7:`Species diversity is the variety of species found within a given area. This includes the different types of animals, plants, and other living organisms. A greater species diversity means a greater variety of different species in the same area, as well as a greater variety of genetic material within those species.`,
+        about6:`Ecosystems are under constant threat due to human activities such as pollution, deforestation, and overfishing. These activities disrupt the balance of the ecosystem and can lead to decreased biodiversity, decreased species populations, and increased risk of extinction. In addition to human activities, other threats to ecosystems include climate change, disease, and invasive species.  `,
+        about6a:`Climate change causes shifts in temperature and precipitation patterns, affecting the habitats and species that can survive in a given area. Diseases can spread quickly and cause large declines in population sizes. Invasive species can outcompete native species for food and territory, reducing biodiversity and impacting native species populations.`,
         fifth:`Limiting Threats to Ecosystems`,
-        about8:`One way to limit the threats to ecosystems is to practice sustainable management techniques. Sustainable management techniques include reducing pollution, restoring habitats, and limiting human interference. These techniques help protect ecosystems from damage and can help maintain the balance between the biotic and abiotic components. In addition, conservation efforts can help restore damaged ecosystems. These efforts involve preserving habitats, reintroducing native species, and preventing invasive species from taking over.`,
+        about8:`One way to limit the threats to ecosystems is to practice sustainable management techniques. Sustainable management techniques include reducing pollution, restoring habitats, and limiting human interference. These techniques help protect ecosystems from damage and can help maintain the balance between the biotic and abiotic components. In addition, conservation efforts can help restore damaged ecosystems.`,
+        about8:` These efforts involve preserving habitats, reintroducing native species, and preventing invasive species from taking over.`,
         sixth:'Improving Ecosystems',
-        about9:`One of the most effective ways of improving ecosystems is to reduce human-caused environmental disturbances. For example, reducing water pollution by controlling runoff, preventing oil spills, conserving water resources, and conserving wildlife habitats can all reduce the human impact on ecosystems. Additionally, adopting sustainable farming practices, such as using organic fertilizers and avoiding the use of pesticides and herbicides, can help conserve and improve the health of ecosystems. Furthermore, conservation efforts such as restoring habitats and reintroducing species that have been over-hunted or destroyed, can help restore the balance of an ecosystem. Finally, planting trees, both to absorb carbon dioxide from the atmosphere and to provide habitats for wildlife, can also help improve an ecosystem’s health. Together, these efforts can help restore and maintain the health of the ecosystem.`
+        about9:`One of the most effective ways of improving ecosystems is to reduce human-caused environmental disturbances. For example, reducing water pollution by controlling runoff, preventing oil spills, conserving water resources, and conserving wildlife habitats can all reduce the human impact on ecosystems.`,
+        about10:` Additionally, adopting sustainable farming practices, such as using organic fertilizers and avoiding the use of pesticides and herbicides, can help conserve and improve the health of ecosystems. Furthermore, conservation efforts such as restoring habitats and reintroducing species that have been over-hunted or destroyed, can help restore the balance of an ecosystem. Finally, planting trees, both to absorb carbon dioxide from the atmosphere and to provide habitats for wildlife, can also help improve an ecosystem’s health. Together, these efforts can help restore and maintain the health of the ecosystem.`
 
       },
 
@@ -208,38 +236,10 @@ export const Nature =[
 
 
 
-       {
-        id: 6,
-        from:'Nature',
-        name: "How to limit Greenhouse Gas Emissions",
-        img: "https://images.pexels.com/photos/433308/pexels-photo-433308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        about1:'What we can do to limit Greenhouse Gas Emissions',
-        about2:`1. Use energy efficient appliances: By replacing older appliances with new ones that are rated for energy efficiency, we can reduce the amount of energy used in our homes and businesses. This includes upgrading your air conditioner, refrigerator, and other items to more efficient models.`,
-        about3:`2. Conserve energy: We can also reduce our energy consumption by turning off lights, unplugging electronics, and using natural light when possible.`,
-        about4:`3. Utilize renewable energy sources: Solar, wind, geothermal, and other renewable energy sources can be used to generate electricity with little to no carbon emissions.`,
-        about5:`4. Plant trees: Forests are natural carbon sinks, meaning they absorb and store carbon dioxide. By planting trees, we can help reduce the amount of greenhouse gases in the atmosphere.`,
-        third:'What Governments Can and should Do to Stop Greenhouse Gas Emissions',
-        about6:`1. Tax carbon: Governments could implement a carbon tax, which would make burning fossil fuels more expensive and encourage people to switch to renewable energy sources. `,
-        about7:`2. Subsidize renewable energy: Governments could offer subsidies to businesses and individuals who switch to renewable energy sources, making them more accessible and affordable.`,
-        about8:`3. Regulate emissions: Governments could impose regulations on businesses and industries to ensure that they are not producing too many emissions.`,
-        about9:`4. Invest in green energy research: Governments could invest in research to develop new and more efficient renewable energy technologies.`,
-        about10:`By taking these steps, both individuals and governments have a key role to play in reducing greenhouse gas emissions and helping to prevent climate change.`
-        
 
 
-      }, 
+      
 
-            {
-    id:7,
-  from:'Nature',
-  name:'what is the way forward',
-  img:'https://images.pexels.com/photos/7048040/pexels-photo-7048040.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-  about1:'How can we fight environmental degradation',
-  about2:`The world is facing an unprecedented environmental crisis that threatens all life on Earth. To effectively address this issue, it is essential that we take meaningful, decisive action to reduce pollution, conserve energy, and protect our natural resources. One of the most essential steps in fighting climate change is to reduce our carbon emissions. This can be accomplished by transitioning to renewable sources of energy, such as solar and wind, and replacing fossil fuels. Additionally, we must strive to improve energy efficiency and reduce energy waste. This can be done by investing in energy-efficient technologies, utilizing green building and transportation practices, and encouraging people to adopt sustainable habits.`,
-  img2:'https://images.pexels.com/photos/8010757/pexels-photo-8010757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-  about3:`We must also prioritize conservation efforts to protect our natural resources and help mitigate the effects of climate change. This includes putting in place regulations to prevent activities such as deforestation, overfishing, and unsustainable farming practices. Furthermore, we must fund and support the conservation and restoration of habitats, including coral reefs, wetlands, and rainforests.`,
-  about4:`Finally, we must take action to reduce the amount of pollution we produce. This includes reducing our consumption of single-use plastics, reducing emissions from transportation and factories, and investing in cleaner sources of energy. It is clear that a comprehensive, multi-faceted approach is needed to effectively address the environmental crisis. We must take action to reduce emissions, conserve energy, and protect our natural resources if we are to stop the devastating effects of climate change and ensure a brighter future for our planet.`
-},
   {
     id:8,
     from :'Nature',
@@ -255,28 +255,48 @@ export const Nature =[
     about9:`Ultimately, it is important to remember that climate change is a real and present danger that needs to be addressed. Those who deny it should not be allowed to influence the decisions that are being made on behalf of our planet.`,
 img2:'https://images.pexels.com/photos/3039036/pexels-photo-3039036.jpeg?auto=compress&cs=tinysrgb&w=600'
 
-  },
-  {
-    id:9,
-    from :'Nature',
-    name:'Ocean acidification',
-    img:'https://images.pexels.com/photos/3410956/pexels-photo-3410956.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-     about2:`Ocean acidification is a serious problem that is threatening coral reefs, marine species, and the entire ocean ecosystem. It is caused by the increasing levels of carbon dioxide (CO2) in the atmosphere which dissolves into the ocean and forms carbonic acid. This acidity increases the hydrogen ion concentration in the water, making the ocean become increasingly more acidic.`,
-     about3:`We must take immediate action to reduce CO2 emissions and mitigate the effects of ocean acidification. Here are some effective strategies that we can use`,
-     first:`Reduce Carbon Emissions:`,
-     about4:` Because of human activities the levels of carbon dioxide have increased in the atmosphere, and that means there is more Carbon dioxide dissolving into the ocean.One of the most effective ways to reduce ocean acidification is to reduce carbon emissions from factories, cars, and other sources. We can do this by investing in renewable energy sources, such as wind and solar, and using energy-efficient technologies. We can also make changes to the way our products are manufactured, to reduce their carbon footprint.`,
-     second:'Protect Coastal Ecosystems',
-     about5:`Coastal ecosystems are essential for the health of the ocean. Healthy ecosystems provide a natural buffer against acidification, allowing them to absorb and reduce the impact of acidic waters. We can protect coastal ecosystems by conserving wetlands, mangroves, and seagrass beds. We can also use “no-take” or “catch-and-release” policies to protect species populations in the oceans.`,
-     third:'Restore Coral Reefs:',
-     about6:`Coral reefs are some of the most biodiverse ecosystems on Earth, and they are also highly vulnerable to ocean acidification. To restore them, we must reduce the amount of acidity in the water and protect them from damages caused by human activities. We can do this by reducing our use of fertilizers and other pollutants, establishing marine protected areas, and replanting damaged reefs.`,
-     about7:`We must take action now to protect our oceans from the effects of ocean acidification. By reducing carbon emissions, protecting coastal ecosystems, and restoring coral reefs, we can create a healthier, more sustainable future for our oceans.`
-
   }
-
-
-
-
-
-
+ 
 ]
+
+export const Quotes=[
+{id:1,
+from:`Quotes`,
+name:`Nature is not a place to visit. It is home...`,
+by:`Gary Snyder`
+
+},
+{id:2,
+from:`Quotes`,
+name:`Fear Allah in these beasts who cannot speak...`,
+by:`Prophet Muhammad (Peace Be Upon Him) `
+
+},
+{id:3,
+from:`Quotes`,
+name:`The Lord God took the man and put him in the garden of Eden to work it and keep it...`,
+by:`Genesis 2:15 `
+ 
+},
+{id:4,
+from:`Quotes`,
+name:`An understanding of the natural world is a source of not only great curiosity, but great fulfilment..."`,
+by:`Sir David Attenborough`
+
+},
+{id:5,
+from:`Quotes`,
+name:` We bled the natural world only for our goals, we save it only if its our Goal....`,
+by:`derrick griffines`
+},
+{id:6,
+from:`Quotes`,
+name:`The love for all living creatures is the most noble attribute of man...`,
+by:`Charles Darwin`
+},
+
+
+
+
+  ]
 
