@@ -75,6 +75,6 @@ app.get('/Quotes', (req,res)=>{
 
 //json still fails to make it .. we try again tommorow
 
-const PORT= 8000;
 
-app.listen(PORT,()=>console.log('server on 8000'));
+
+app.listen(process.env.PORT || 8000)
