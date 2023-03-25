@@ -4,6 +4,7 @@ export const causes= [
         from:'causes',
         name: "climateChange",
         img: "https://images.pexels.com/photos/221012/pexels-photo-221012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        img3: 'https://images.pexels.com/photos/2990610/pexels-photo-2990610.jpeg?auto=compress&cs=tinysrgb&w=600',
         about1: " what is climate Change",
         about2: "Climate change is the long term shifts in the earths temperature and weather patterns",
         about3: `For the most part of earths existence these shifts have been natural but since 1800s man's activity has been the major cause of these temperature shifts mainly because of industrialization that started during this period and still goes on till this day. since the industrial revolution humans activities like the burning fossil fuels, including coal and oil, have increased greenhouse gas concentrations in our atmosphere which trap and refract heat back on earth causing an extreme rapid increase of temperatures on our planet. The increased temperatures have a lot 0f affects on our planet; floods,loss of agriculture productivity ,drought,sudden disruptions to ecosystems patterns which leads to loss of species that benefit from the consistent conditions in which they have thrived in for so long`,
@@ -258,6 +259,67 @@ img2:'https://images.pexels.com/photos/3039036/pexels-photo-3039036.jpeg?auto=co
   }
  
 ]
+
+export const Stories=[
+  {id:1,
+  from:`Stories`,
+  name:`Bees for you and me`,
+  img:`https://images.pexels.com/photos/460961/pexels-photo-460961.jpeg?auto=compress&cs=tinysrgb&w=600` ,
+  img2:`https://images.pexels.com/photos/2260933/pexels-photo-2260933.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=252&fit=crop&h=408`,
+  img3:`https://images.pexels.com/photos/1353126/pexels-photo-1353126.jpeg?auto=compress&cs=tinysrgb&w=600`,
+  about2:`Bees are one of the most important creatures in our ecosystem. They are responsible for pollinating a large portion of the world's food crops, including fruits, vegetables, and nuts. Without bees, our food supply would be severely impacted, leading to food shortages and increased food prices.`,
+  about3:`However, bees are facing many threats, including habitat loss, pesticide use, and climate change. As a result, bee populations are declining at an alarming rate. This is a major concern, not only for the survival of bees but also for the health of our ecosystems and food systems. `,
+  fourth:`So, what can we do to help bees? `,
+  about7:'There are several things that individuals and communities can do to support bees and promote their health and well-being.',
+  about7a:`Firstly, we can provide habitat for bees by planting pollinator-friendly flowers and plants in our gardens and public spaces. This includes native plants that are adapted to the local climate and provide food and shelter for bees.`,
+  about7b:`Secondly, we can reduce our use of pesticides and choose organic and natural pest control methods instead. Pesticides are one of the biggest threats to bee populations, and reducing their use can go a long way in protecting bees and other pollinators.`,
+  about7c:`Lastly, we can support local beekeepers and their efforts to maintain healthy bee populations. By buying local honey and supporting beekeeping practices that prioritize the health of bees and their habitats, we can contribute to the well-being of bees and our ecosystems.`,
+  about7d:`In conclusion, bees play a crucial role in our ecosystem and food systems of a lot of species , and their decline is a major concern. By taking simple actions to support bees and promote their health and well-being, we can help ensure the survival of these important creatures and the health of our planet.`
+
+  },
+  {id:1,
+    from:`Stories`,
+    name:`Bees for you and me`,
+    img:`https://images.pexels.com/photos/460961/pexels-photo-460961.jpeg?auto=compress&cs=tinysrgb&w=600` ,
+    img2:`https://images.pexels.com/photos/2260933/pexels-photo-2260933.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=252&fit=crop&h=408`,
+    img3:`https://images.pexels.com/photos/1353126/pexels-photo-1353126.jpeg?auto=compress&cs=tinysrgb&w=600`,
+    about2:`Bees are one of the most important creatures in our ecosystem. They are responsible for pollinating a large portion of the world's food crops, including fruits, vegetables, and nuts. Without bees, our food supply would be severely impacted, leading to food shortages and increased food prices.`,
+    about3:`However, bees are facing many threats, including habitat loss, pesticide use, and climate change. As a result, bee populations are declining at an alarming rate. This is a major concern, not only for the survival of bees but also for the health of our ecosystems and food systems. `,
+    fourth:`So, what can we do to help bees? `,
+    about7:'There are several things that individuals and communities can do to support bees and promote their health and well-being.',
+    about7a:`Firstly, we can provide habitat for bees by planting pollinator-friendly flowers and plants in our gardens and public spaces. This includes native plants that are adapted to the local climate and provide food and shelter for bees.`,
+    about7b:`Secondly, we can reduce our use of pesticides and choose organic and natural pest control methods instead. Pesticides are one of the biggest threats to bee populations, and reducing their use can go a long way in protecting bees and other pollinators.`,
+    about7c:`Lastly, we can support local beekeepers and their efforts to maintain healthy bee populations. By buying local honey and supporting beekeeping practices that prioritize the health of bees and their habitats, we can contribute to the well-being of bees and our ecosystems.`,
+    about7d:`In conclusion, bees play a crucial role in our ecosystem and food systems of a lot of species , and their decline is a major concern. By taking simple actions to support bees and promote their health and well-being, we can help ensure the survival of these important creatures and the health of our planet.`
+  
+    },
+    {id:2,
+      from:`Stories`,
+      name:`Coral reefs`,
+      img:`https://images.pexels.com/photos/3121765/pexels-photo-3121765.jpeg?auto=compress&cs=tinysrgb&w=600` ,
+      img2:`https://images.pexels.com/photos/3157890/pexels-photo-3157890.jpeg?auto=compress&cs=tinysrgb&w=600`,
+      img3:`https://images.pexels.com/photos/3635910/pexels-photo-3635910.jpeg?auto=compress&cs=tinysrgb&w=600`,
+      about2:`So what is Coral reefs?  Coral reefs are some of the most diverse and important ecosystems on our planet. These underwater ecosystems are home to a vast array of marine species, including fish, sea turtles, sharks, and many others. But what are coral reefs, and why are they so important?`,
+      about3:`Coral reefs are made up of colonies of tiny animals called coral polyps. The polyps secrete calcium carbonate, which forms a hard, rock-like structure. Over time, these structures grow and form the complex and diverse ecosystems that we know as coral reefs. `,
+      Second:`Importance of coral reefs`,
+      about5:'Firstly, they provide essential habitat for a wide range of marine species. Coral reefs are some of the most biodiverse ecosystems on the planet, providing shelter, food, and breeding grounds for countless species.',
+      about5a:`Secondly, coral reefs provide important ecological services for humans. They protect coastlines from storms and erosion, provide a source of food and income for many coastal communities, and support tourism and recreation industries.`,
+      about5b:`However, coral reefs are under threat from a range of human activities, including climate change, overfishing, and pollution. Climate change is one of the biggest threats to coral reefs, as rising ocean temperatures and acidity levels can cause coral bleaching and death`,
+      about5c:`So, what can we do to help protect coral reefs? There are several things that individuals and communities can do to support the health and well-being of these important ecosystems`,
+      fourth:`So, what can we do to help protect coral reefs?`,
+      about7:`There are several things that individuals and communities can do to support the health and well-being of these important ecosystems.`,
+      about7a:`Firstly, we can reduce our carbon footprint by reducing our use of fossil fuels and supporting renewable energy sources. This can help to mitigate the effects of climate change and reduce the impact on coral reefs.`,
+      about7b:`Secondly, we can reduce our use of single-use plastics and other pollutants that can harm coral reefs and marine species. This includes avoiding products that contain microplastics and supporting efforts to reduce plastic waste.`,
+      about7c:`Lastly, we can support conservation efforts that aim to protect and restore coral reefs. This includes supporting marine protected areas, sustainable fishing practices, and research into coral health and restoration.`,
+      about7d:`In conclusion, coral reefs are some of the most important and diverse ecosystems on our planet, providing essential habitat and ecological services for both marine species and humans. However, these ecosystems are under threat from a range of human activities, and urgent action is needed to protect and restore them. By taking simple actions to reduce our impact on coral reefs and support conservation efforts, we can help ensure the survival of these important ecosystems for generations to come.`
+    
+      },
+ 
+  
+  
+  
+  
+    ]
 
 export const Quotes=[
 {id:1,

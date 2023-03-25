@@ -72,7 +72,7 @@ img3:`https://images.unsplash.com/photo-1533084417605-e538a510d50a?ixlib=rb-4.0.
       from:'endangered',
       name: "ASIAN ELEPHANT",
       img: "https://images.pexels.com/photos/3751673/pexels-photo-3751673.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      about2:`The Asian elephant is a large mammal found in South and Southeast Asia. It is threatened by habitat loss, poaching, and other human activities. The best way to help the Asian elephant is to support organizations that are working to protect their habitats and create safe places for them to live. `,
+      about3:`write me a blog article that is SEO friendly about endangered birds like kiwi, snow owl, kakapo, Great Curassow, White-Rumped Vulture,African Grey Parrot, and talk about each one of them shortly then talk about how we can help them `,
       img3:`https://plus.unsplash.com/premium_photo-1663013161874-f864e9f3cb0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8YXNpYW4lMjBlbGVwaGFudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60`
     },
 
@@ -176,7 +176,7 @@ img3:`https://images.unsplash.com/photo-1533084417605-e538a510d50a?ixlib=rb-4.0.
   },
  
     {
-      id:19,from:`endangered`,
+      id:18,from:`endangered`,
       name:`The white-rumped vulture, The African grey parrot ,The kakapo`,
       img2:`https://images.pexels.com/photos/2611797/pexels-photo-2611797.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
       img:`https://upload.wikimedia.org/wikipedia/commons/9/9a/White-rumped_vulture_%28Gyps_bengalensis%29_Photograph_by_Shantanu_Kuveskar.jpg`,
@@ -257,10 +257,9 @@ export const extinct =[
         about6:`The list of extinct species due to human activity is long and saddening. Here are a few examples:`,
         about7:`1.The Australian Tasmanian Tiger - Also known as the thylacine, this species was native to Australia and Tasmania. It was hunted to extinction by farmers in the 20th century.`,
         about8:`2. The Dodo - This flightless bird was native to the island of Mauritius and was hunted to extinction by humans in the 17th century.`,
-        about9:`3.The Pyrenean Ibex - This type of wild goat was found in the Pyrenees Mountains of Europe and was thought to be extinct until a female ibex was discovered in 2000. It was declared extinct when she died.`,
+        about9:`4.The Pyrenean Ibex - This type of wild goat was found in the Pyrenees Mountains of Europe and was thought to be extinct until a female ibex was discovered in 2000. It was declared extinct when she died.`,
         about10:`As humans, it is essential that we take action to protect the species of the world. We must be mindful of our impact on the environment and work to reduce it as much as possible. By doing so, we can help to ensure the survival of species around the world and maintain the balance of life on Earth.`,
-        img2:'https://www.telegraph.co.uk/content/dam/science/2023/02/01/TELEMMGLPICT000323921547_trans_NvBQzQNjv4BqyY7Bk8zCk9SVRV40gj0ZEk8FchWZRD3tSYOiRwPjWDo.jpeg?imwidth=680',
-        img3:`https://images.pexels.com/photos/9407899/pexels-photo-9407899.jpeg?auto=compress&cs=tinysrgb&w=600`
+        img2:'https://www.telegraph.co.uk/content/dam/science/2023/02/01/TELEMMGLPICT000323921547_trans_NvBQzQNjv4BqyY7Bk8zCk9SVRV40gj0ZEk8FchWZRD3tSYOiRwPjWDo.jpeg?imwidth=680'
 
 
       }
