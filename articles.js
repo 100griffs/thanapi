@@ -314,6 +314,23 @@ export const Stories=[
       about7d:`In conclusion, coral reefs are some of the most important and diverse ecosystems on our planet, providing essential habitat and ecological services for both marine species and humans. However, these ecosystems are under threat from a range of human activities, and urgent action is needed to protect and restore them. By taking simple actions to reduce our impact on coral reefs and support conservation efforts, we can help ensure the survival of these important ecosystems for generations to come.`
     
       },
+      {
+        id:3,
+      from:'Stories',
+      name:`The Importance of Snakes in the Environment: A Call to Protect the Endangered Species`,
+      img:`https://images.pexels.com/photos/80474/grass-snake-snake-serpentes-natrix-80474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+      img2:`https://images.pexels.com/photos/1040659/pexels-photo-1040659.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+      img3:`https://images.pexels.com/photos/10509710/pexels-photo-10509710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+      about2:`Snakes are one of the most misunderstood creatures on the planet. Often feared and demonized, these reptiles play a crucial role in maintaining the balance of ecosystems. Their contribution to the environment is invaluable, and their extinction would have catastrophic effects on the natural world so in this article lets learn about the importance of snakes,some of the endangered snakes, and what we can do to help snakes.`,
+      about3:`Snakes are natural pest controllers, feeding on rodents, insects, and other small animals that can cause damage to crops and spread diseases. Without snakes, the population of these pests would skyrocket, leading to an increase in crop damage and the spread of diseases, which could have a devastating impact on human health.`,
+      about4:`Unfortunately, many snake species are currently endangered due to habitat loss, climate change, and human activities such as poaching and hunting. Some of the most endangered species include the Saint Croix Racer, Antiguan Racer, and the   Santa Catalina Island Rattlesnake. These species and many more  are at risk of extinction due to the loss of their natural habitats and illegal trade.`,
+      about5:`To protect these endangered species, it is crucial to take action by supporting conservation efforts, reducing carbon emissions to slow climate change, and taking steps to prevent habitat loss. Additionally, it is vital to educate the public about the importance of snakes in the ecosystem and dispel misconceptions about these creatures.`,
+      about7:`In conclusion, snakes play an important role in maintaining the balance of ecosystems. Their extinction would have devastating effects on the environment and human health. It is our responsibility to protect these creatures and their habitats to ensure their survival and contribute to the health of our planet.`,
+
+
+    }
+
+
  
   
   
