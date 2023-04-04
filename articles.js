@@ -339,7 +339,7 @@ export const Stories=[
       first:`Hawksbill Turtle`,
       about4:`This sea turtle is critically endangered due to hunting for its shell and eggs. We can save them by supporting conservation efforts and avoiding the purchase of products made from their shells.`,
       image1:`https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eretmochelys-imbricata-K%C3%A9lonia-2.JPG/220px-Eretmochelys-imbricata-K%C3%A9lonia-2.JPG`,
-      Second:`Leatherback Turtle`,
+      second:`Leatherback Turtle`,
       about5:' These turtles face threats from fishing practices and habitat loss. We can help by supporting sustainable fishing practices and protecting their nesting beaches.',
       image2:`https://images.unsplash.com/photo-1580603474920-aa3332b2c40f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80`,
       third:`Philippine Crocodile`,
