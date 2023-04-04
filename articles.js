@@ -326,9 +326,73 @@ export const Stories=[
       about4:`Unfortunately, many snake species are currently endangered due to habitat loss, climate change, and human activities such as poaching and hunting. Some of the most endangered species include the Saint Croix Racer, Antiguan Racer, and the   Santa Catalina Island Rattlesnake. These species and many more  are at risk of extinction due to the loss of their natural habitats and illegal trade.`,
       about5:`To protect these endangered species, it is crucial to take action by supporting conservation efforts, reducing carbon emissions to slow climate change, and taking steps to prevent habitat loss. Additionally, it is vital to educate the public about the importance of snakes in the ecosystem and dispel misconceptions about these creatures.`,
       about7:`In conclusion, snakes play an important role in maintaining the balance of ecosystems. Their extinction would have devastating effects on the environment and human health. It is our responsibility to protect these creatures and their habitats to ensure their survival and contribute to the health of our planet.`,
+    },
 
+
+       {
+
+        id:2,
+      from:`Stories`,
+      name:`Top ten most endangered reptiles and what we can do to help them`,
+      img:`https://images.pexels.com/photos/7181462/pexels-photo-7181462.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load`,
+      about2:`The world is home to a vast variety of reptiles, but unfortunately, some of them are on the verge of extinction. The destruction of natural habitats, climate change, and illegal poaching are some of the reasons for the decline in the population of these species. In this article, we will be discussing the top ten most endangered reptiles in the world and how we can help them.`,
+      first:`Hawksbill Turtle`,
+      about4:`This sea turtle is critically endangered due to hunting for its shell and eggs. We can save them by supporting conservation efforts and avoiding the purchase of products made from their shells.`,
+      image1:`https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eretmochelys-imbricata-K%C3%A9lonia-2.JPG/220px-Eretmochelys-imbricata-K%C3%A9lonia-2.JPG`,
+      Second:`Leatherback Turtle`,
+      about5:' These turtles face threats from fishing practices and habitat loss. We can help by supporting sustainable fishing practices and protecting their nesting beaches.',
+      image2:`https://images.unsplash.com/photo-1580603474920-aa3332b2c40f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80`,
+      third:`Philippine Crocodile`,
+      about6:` This reptile is one of the rarest in the world, with only a few hundred left in the wild. We can help by supporting breeding programs and habitat conservation.`,
+      image3:`https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Crocodylus_mindorensis_by_Gregg_Yan_01.jpg/220px-Crocodylus_mindorensis_by_Gregg_Yan_01.jpg`,
+      fourth:`Madagascar Spider Tortoise`,
+      about7:`These tortoises are critically endangered due to habitat loss and hunting for their meat and shells. We can save them by supporting conservation efforts and avoiding the purchase of products made from their shells.`,
+      image4:`https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pyxis_arachnoides_brygooi.jpg/220px-Pyxis_arachnoides_brygooi.jpg`,
+      fifth:`Radiated Tortoise`,
+      about8:`This tortoise is threatened by habitat loss and hunting for its meat and shells. We can help by supporting conservation efforts and avoiding the purchase of products made from their shells.`,
+      image5:`https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Radiated_tortoise_%28Astrochelys_radiata%29_Tsimanampetsotsa.jpg/220px-Radiated_tortoise_%28Astrochelys_radiata%29_Tsimanampetsotsa.jpg`,
+      sixth:`Komodo Dragon`,
+      about9:`This iconic lizard is threatened by habitat loss and hunting for its meat and skin. We can help by supporting conservation efforts and promoting sustainable tourism.`,
+      image6:`https://images.pexels.com/photos/7715005/pexels-photo-7715005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+      seventh:`Gharial`,
+      image7:`https://images.pexels.com/photos/10668175/pexels-photo-10668175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+      about11:`This crocodile is critically endangered due to habitat loss and hunting for its skin and meat. We can help by supporting breeding programs and habitat conservation.`,
+      eigth:`Chinese Alligator`,
+      image8:`https://images.pexels.com/photos/13111018/pexels-photo-13111018.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+      about12:`This alligator is critically endangered due to habitat loss and hunting for its skin and meat. We can help by supporting breeding programs and habitat conservation.`,
+      ninth:`Ploughshare Tortoise`,
+      about13:`These tortoises are critically endangered due to habitat loss and hunting for their meat and shells. We can save them by supporting conservation efforts and avoiding the purchase of products made from their shells.`,
+       image9:`https://images.pexels.com/photos/3753182/pexels-photo-3753182.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+      tenth:`Galapagos Giant Tortoise`,
+      about14:`This tortoise is threatened by habitat loss and hunting for its meat and shells. We can help by supporting conservation efforts and avoiding the purchase of products made from their shells.`,
+      image10:`https://images.pexels.com/photos/6790704/pexels-photo-6790704.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+      about15:`In conclusion, the world of reptiles is full of wonders and beauty. However, many of these creatures are in danger of disappearing forever. By supporting conservation efforts, avoiding the purchase of products made from their shells, promoting sustainable tourism, and protecting their habitats, we can save these magnificent animals and ensure their survival for generations to come. Let us all do our part in protecting the reptiles of this world, for they are a vital part of our planet's ecosystem and deserve our utmost respect and care.`
 
     }
+
+    /*{
+
+        id:2,
+      from:`Stories`,
+      name:``,
+      img:`` ,
+      img2:``,
+      img3:``,
+      about2:``,
+      about3:` `,
+      Second:``,
+      about5:'',
+      about5a:``,
+      about5b:``,
+      about5c:``,
+      fourth:``,
+      about7:``,
+      about7a:``,
+      about7b:``,
+      about7c:``,
+      about7d:``  
+
+    }*/
 
 
  
