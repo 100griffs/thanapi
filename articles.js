@@ -357,7 +357,7 @@ export const Stories=[
       seventh:`Gharial`,
       image7:`https://images.pexels.com/photos/10668175/pexels-photo-10668175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
       about11:`This crocodile is critically endangered due to habitat loss and hunting for its skin and meat. We can help by supporting breeding programs and habitat conservation.`,
-      eigth:`Chinese Alligator`,
+      eighth:`Chinese Alligator`,
       image8:`https://images.pexels.com/photos/13111018/pexels-photo-13111018.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
       about12:`This alligator is critically endangered due to habitat loss and hunting for its skin and meat. We can help by supporting breeding programs and habitat conservation.`,
       ninth:`Ploughshare Tortoise`,
