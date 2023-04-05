@@ -263,18 +263,18 @@ img2:'https://images.pexels.com/photos/3039036/pexels-photo-3039036.jpeg?auto=co
 export const Stories=[
   {id:1,
   from:`Stories`,
-  name:`Bees for you and me`,
+  name:`environmental Sustainability`,
   img:`https://images.pexels.com/photos/460961/pexels-photo-460961.jpeg?auto=compress&cs=tinysrgb&w=600` ,
   img2:`https://images.pexels.com/photos/2260933/pexels-photo-2260933.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=252&fit=crop&h=408`,
   img3:`https://images.pexels.com/photos/1353126/pexels-photo-1353126.jpeg?auto=compress&cs=tinysrgb&w=600`,
-  about2:`Bees are one of the most important creatures in our ecosystem. They are responsible for pollinating a large portion of the world's food crops, including fruits, vegetables, and nuts. Without bees, our food supply would be severely impacted, leading to food shortages and increased food prices.`,
-  about3:`However, bees are facing many threats, including habitat loss, pesticide use, and climate change. As a result, bee populations are declining at an alarming rate. This is a major concern, not only for the survival of bees but also for the health of our ecosystems and food systems. `,
-  fourth:`So, what can we do to help bees? `,
-  about7:'There are several things that individuals and communities can do to support bees and promote their health and well-being.',
-  about7a:`Firstly, we can provide habitat for bees by planting pollinator-friendly flowers and plants in our gardens and public spaces. This includes native plants that are adapted to the local climate and provide food and shelter for bees.`,
-  about7b:`Secondly, we can reduce our use of pesticides and choose organic and natural pest control methods instead. Pesticides are one of the biggest threats to bee populations, and reducing their use can go a long way in protecting bees and other pollinators.`,
-  about7c:`Lastly, we can support local beekeepers and their efforts to maintain healthy bee populations. By buying local honey and supporting beekeeping practices that prioritize the health of bees and their habitats, we can contribute to the well-being of bees and our ecosystems.`,
-  about7d:`In conclusion, bees play a crucial role in our ecosystem and food systems of a lot of species , and their decline is a major concern. By taking simple actions to support bees and promote their health and well-being, we can help ensure the survival of these important creatures and the health of our planet.`
+  about2:`Environmental sustainability is the practice of using natural resources in a way that meets the needs of the present generation without compromising the ability of future generations to meet their own needs. It refers to the maintenance of the delicate balance between human activities and the natural environment`,
+  about3:`The concept of environmental sustainability is crucial for the survival of our planet. With the rapidly growing population, urbanization, industrialization, and technological advancements, the pressure on the environment is increasing at an alarming rate. Our planet is facing multiple environmental challenges, such as climate change, deforestation, loss of biodiversity, pollution, and depletion of natural resources.`,
+  about7:'Environmental sustainability aims to address these challenges by promoting the responsible use of natural resources. It involves taking into account the impact of human activities on the environment and adopting measures to minimize or mitigate these impacts. This includes reducing greenhouse gas emissions, promoting renewable energy sources, conserving water, protecting natural habitats, and minimizing waste.',
+  fifth:`The importance of environmental sustainability`,
+  about8:`The importance of environmental sustainability cannot be overstated. It is essential for the long-term survival of our planet and the well-being of all living beings, including humans. Environmental sustainability ensures that natural resources are used in a way that allows for their regeneration, rather than their depletion. This helps to ensure that future generations can enjoy the same benefits of natural resources that we do today.`,
+  about8b:`Moreover, environmental sustainability has multiple benefits for human society. It promotes a healthier and cleaner environment, which can have positive impacts on human health and well-being. It can also create job opportunities in areas such as renewable energy, sustainable agriculture, and eco-tourism.`,
+  about8c:`In conclusion, environmental sustainability is a vital concept that is crucial for the long-term survival of our planet. It involves using natural resources in a responsible and sustainable way to meet the needs of the present generation without compromising the ability of future generations to meet their own needs. Environmental sustainability is essential for protecting the environment, promoting human health and well-being, and creating a sustainable future for all.`,
+
 
   },
   {id:1,
