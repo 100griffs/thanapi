@@ -261,12 +261,30 @@ img2:'https://images.pexels.com/photos/3039036/pexels-photo-3039036.jpeg?auto=co
 ]
 
 export const Stories=[
+
   {id:1,
   from:`Stories`,
+  name:`importance of public tansport`,
+  img:`https://images.pexels.com/photos/1057861/pexels-photo-1057861.jpeg?auto=compress&cs=tinysrgb&w=600` ,
+  img2:`https://images.pexels.com/photos/1426516/pexels-photo-1426516.jpeg?auto=compress&cs=tinysrgb&w=600`,
+  img3:`https://transportafrica.org/wp-content/uploads/2022/07/1599px-Metrorail_Trains-300x200.jpeg`,
+  about2:`Public transport plays a critical role in helping us live sustainably and reducing our impact on the environment. It is an essential component of a sustainable urban transportation system, helping to reduce greenhouse gas emissions, congestion, and air pollution. In this article, we will explore the importance of public transport in promoting sustainable living and its benefits for the environment and the world as a whole. In today's world, the issue of sustainability has become increasingly important. As we continue to face challenges such as climate change and pollution, `,
+  about7:'Public transport, including buses, trains, and subways, offers a number of benefits when it comes to sustainability. Firstly, it reduces the number of cars on the road, which in turn reduces traffic congestion and air pollution. Cars are a major contributor to greenhouse gas emissions, and by using public transport we can significantly reduce our carbon footprint.',
+  fifth:`The importance public tansport`,
+  about8:`• public transport is often more efficient than private cars. Buses and trains can transport large numbers of people at once, meaning that fewer vehicles are needed to transport the same number of people. This also means that fewer resources are needed to manufacture and maintain these vehicles.`,
+  about8b:`• public transport can be more affordable than owning and operating a car. The cost of fuel, maintenance, and insurance can add up quickly, and for many people, public transport is a more cost-effective option. This can be especially important for those on lower incomes who may not be able to afford a car.`,
+  about8c:`• In addition to these benefits, public transport can also help to create more sustainable communities. When public transport is readily available, it can encourage more people to use it, reducing the need for cars and promoting a more walkable and bike-friendly environment. This can also help to reduce urban sprawl and preserve green spaces`,
+  about9:`Overall, public transport plays an important role in promoting sustainability and helping both people and the environment to thrive. By reducing the number of cars on the road, increasing efficiency, and promoting more sustainable communities, public transport is a key part of creating a more sustainable future. So, next time you have the option, consider taking the bus or train instead of driving – you may be surprised at the positive impact it can have.`
+
+
+  },
+
+  {id:2,
+  from:`Stories`,
   name:`environmental Sustainability`,
-  img:`https://images.pexels.com/photos/460961/pexels-photo-460961.jpeg?auto=compress&cs=tinysrgb&w=600` ,
-  img2:`https://images.pexels.com/photos/2260933/pexels-photo-2260933.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=252&fit=crop&h=408`,
-  img3:`https://images.pexels.com/photos/1353126/pexels-photo-1353126.jpeg?auto=compress&cs=tinysrgb&w=600`,
+  img:`https://images.pexels.com/photos/1292464/pexels-photo-1292464.jpeg?auto=compress&cs=tinysrgb&w=600` ,
+  img2:`https://images.pexels.com/photos/12243093/pexels-photo-12243093.jpeg?auto=compress&cs=tinysrgb&w=600`,
+  img3:`https://images.pexels.com/photos/2118560/pexels-photo-2118560.jpeg?auto=compress&cs=tinysrgb&w=600`,
   about2:`Environmental sustainability is the practice of using natural resources in a way that meets the needs of the present generation without compromising the ability of future generations to meet their own needs. It refers to the maintenance of the delicate balance between human activities and the natural environment`,
   about3:`The concept of environmental sustainability is crucial for the survival of our planet. With the rapidly growing population, urbanization, industrialization, and technological advancements, the pressure on the environment is increasing at an alarming rate. Our planet is facing multiple environmental challenges, such as climate change, deforestation, loss of biodiversity, pollution, and depletion of natural resources.`,
   about7:'Environmental sustainability aims to address these challenges by promoting the responsible use of natural resources. It involves taking into account the impact of human activities on the environment and adopting measures to minimize or mitigate these impacts. This includes reducing greenhouse gas emissions, promoting renewable energy sources, conserving water, protecting natural habitats, and minimizing waste.',
@@ -277,7 +295,7 @@ export const Stories=[
 
 
   },
-  {id:1,
+  {id:3,
     from:`Stories`,
     name:`Bees for you and me`,
     img:`https://images.pexels.com/photos/460961/pexels-photo-460961.jpeg?auto=compress&cs=tinysrgb&w=600` ,
@@ -293,7 +311,7 @@ export const Stories=[
     about7d:`In conclusion, bees play a crucial role in our ecosystem and food systems of a lot of species , and their decline is a major concern. By taking simple actions to support bees and promote their health and well-being, we can help ensure the survival of these important creatures and the health of our planet.`
   
     },
-    {id:2,
+    {id:4,
       from:`Stories`,
       name:`Coral reefs`,
       img:`https://images.pexels.com/photos/3121765/pexels-photo-3121765.jpeg?auto=compress&cs=tinysrgb&w=600` ,
@@ -315,7 +333,7 @@ export const Stories=[
     
       },
       {
-        id:3,
+        id:4,
       from:'Stories',
       name:`The Importance of Snakes in the Environment: A Call to Protect the Endangered Species`,
       img:`https://images.pexels.com/photos/80474/grass-snake-snake-serpentes-natrix-80474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
@@ -331,7 +349,7 @@ export const Stories=[
 
        {
 
-        id:2,
+        id:5,
       from:`Stories`,
       name:`Top ten most endangered reptiles and what we can do to help them`,
       img:`https://images.pexels.com/photos/7181462/pexels-photo-7181462.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load`,
