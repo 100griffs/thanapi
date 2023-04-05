@@ -261,6 +261,31 @@ img2:'https://images.pexels.com/photos/3039036/pexels-photo-3039036.jpeg?auto=co
 ]
 
 export const Stories=[
+   {
+
+        id:`most endangered forests`,
+      from:`Stories`,
+      name:`5 most endangered forests`,
+      img:`https://images.pexels.com/photos/1042197/pexels-photo-1042197.jpeg?auto=compress&cs=tinysrgb&w=600` ,
+      about2:`Forests are one of the most important resources that we have on our planet, providing habitat for countless species of plants and animals, and playing a crucial role in regulating the Earth's climate. Unfortunately, many of the world's forests are under threat from deforestation, climate change, and other human activities. In this blog post, we will be discussing the five most endangered forests in the world in 2023.`,
+      first:`The Amazon Rainforest`,
+      image1:`https://images.pexels.com/photos/2739666/pexels-photo-2739666.jpeg?auto=compress&cs=tinysrgb&w=600`,
+      about4:`The Amazon Rainforest is the largest rainforest on Earth, spanning over 6.7 million square kilometers in South America. It is home to an estimated 10% of the world's biodiversity, including hundreds of thousands of plant and animal species. However, the Amazon is under severe threat from deforestation, driven largely by the expansion of agricultural land for soy, beef, and palm oil production. It is estimated that over 17% of the Amazon Rainforest has been destroyed in the past 50 years, and if current trends continue, the Amazon could lose another 20% of its forest cover by 2030. `,
+      Second:`Congo Rainforest`,
+      image2:`https://images.pexels.com/photos/1238277/pexels-photo-1238277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+      about5:`The Congo Rainforest, also known as the "green heart of Africa," is the world's second-largest rainforest, covering an area of over 1.6 million square kilometers across central Africa. It is home to some of the rarest and most endangered species on the planet, including gorillas, chimpanzees, and forest elephants. However, the Congo Rainforest is under threat from deforestation for logging and mining, as well as slash-and-burn agriculture. It is estimated that the Congo Rainforest has lost over 10% of its forest cover in the past 20 years.`,
+      third:`Borneo Rainforest`,
+      image3:`https://images.pexels.com/photos/15047791/pexels-photo-15047791.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+      about6:`The Borneo Rainforest is the third-largest rainforest in the world, covering an area of over 740,000 square kilometers across Malaysia, Indonesia, and Brunei. It is home to an estimated 15,000 plant species and thousands of animal species, including orangutans, pygmy elephants, and clouded leopards. However, the Borneo Rainforest is under threat from deforestation for palm oil plantations, as well as illegal logging and hunting. It is estimated that over 30% of the Borneo Rainforest has been destroyed in the past 40 years.`,
+      fourth:`Atlantic Forest`,
+      image4:`https://images.pexels.com/photos/975771/pexels-photo-975771.jpeg?auto=compress&cs=tinysrgb&w=600`,
+     
+      about7:`The Atlantic Forest, also known as the Mata Atlântica, is a rainforest that once covered over 1.3 million square kilometers along the eastern coast of Brazil. It is one of the most biodiverse regions on Earth, with an estimated 20,000 plant species and over 2,200 animal species. However, the Atlantic Forest has been severely reduced in size due to deforestation for agriculture and urbanization. It is estimated that only 7% of the original forest cover remains, and many species are on the brink of extinction.`,
+     fifth:`Southeast Asian Rainforests`,
+     image5:`https://images.pexels.com/photos/2609106/pexels-photo-2609106.jpeg?auto=compress&cs=tinysrgb&w=600`,
+      about8:`The Southeast Asian Rainforests are a collection of rainforests that cover an area of over 2 million square kilometers across Indonesia, Malaysia, and the Philippines. They are home to an estimated 20% of the world's plant and animal species, including the critically endangered Sumatran tiger and Javan rhinoceros. However, the Southeast Asian Rainforests are under threat from deforestation for palm oil and rubber plantations, as well as illegal logging and hunting. It is estimated that the region has lost over 30% of its forest cover in the past few decades.`,
+      about15:`In conclusion, the destruction of these rainforests has not only put countless species at risk of extinction but has also contributed to climate change, as forests play a vital role in carbon sequestration. It is crucial that we take action to protect these valuable ecosystems before it's too late.`,
+    },
 
   {id:1,
   from:`Stories`,
