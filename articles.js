@@ -320,7 +320,7 @@ export const Stories=[
 
 
   },
-  {id:3,
+  {id:'bees for you',
     from:`Stories`,
     name:`Bees for you and me`,
     img:`https://images.pexels.com/photos/460961/pexels-photo-460961.jpeg?auto=compress&cs=tinysrgb&w=600` ,
@@ -336,7 +336,7 @@ export const Stories=[
     about7d:`In conclusion, bees play a crucial role in our ecosystem and food systems of a lot of species , and their decline is a major concern. By taking simple actions to support bees and promote their health and well-being, we can help ensure the survival of these important creatures and the health of our planet.`
   
     },
-    {id:4,
+    {id:'reefs',
       from:`Stories`,
       name:`Coral reefs`,
       img:`https://images.pexels.com/photos/3121765/pexels-photo-3121765.jpeg?auto=compress&cs=tinysrgb&w=600` ,
@@ -411,31 +411,155 @@ export const Stories=[
       image10:`https://images.pexels.com/photos/6790704/pexels-photo-6790704.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
       about15:`In conclusion, the world of reptiles is full of wonders and beauty. However, many of these creatures are in danger of disappearing forever. By supporting conservation efforts, avoiding the purchase of products made from their shells, promoting sustainable tourism, and protecting their habitats, we can save these magnificent animals and ensure their survival for generations to come. Let us all do our part in protecting the reptiles of this world, for they are a vital part of our planet's ecosystem and deserve our utmost respect and care.`
 
-    }
+    },
 
-    /*{
+    {
 
-        id:2,
+        id:'african lions',
       from:`Stories`,
-      name:``,
-      img:`` ,
-      img2:``,
-      img3:``,
-      about2:``,
+      name:`Africa's Lions: Conservation Efforts to Protect the King`,
+      img:`https://cdn.pixabay.com/photo/2022/11/26/08/27/plastic-waste-7617451_960_720.jpg`,
+      img3:`https://images.pexels.com/photos/13449663/pexels-photo-13449663.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load` ,
+      img2:`https://images.pexels.com/photos/6790805/pexels-photo-6790805.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+      img10:`https://images.pexels.com/photos/4003698/pexels-photo-4003698.jpeg?auto=compress&cs=tinysrgb&w=600`,
+      about2:`Lions have long been regarded as the "King of the Jungle," symbolizing power and majesty. These magnificent big cats are native to Africa and have captured the imagination of people around the world. However, Africa's lion populations are facing serious threats, and conservation efforts are urgently needed to protect them. In this article, we will delve into the challenges faced by African lions, the importance of their conservation, and how we can help safeguard their future`,
       about3:` `,
-      Second:``,
-      about5:'',
+      Second:`The Plight of African Lions:`,
+      about5:`African lions are facing numerous challenges that have led to their declining populations. Habitat loss due to human encroachment, poaching, and human-wildlife conflict are some of the main threats they face. As Africa's human population continues to grow, lions are losing their natural habitats, which disrupts their hunting patterns and leads to conflicts with local communities. Additionally, poaching for illegal wildlife trade, such as lion bones and body parts, further threatens lion populations. According to the International Union for Conservation of Nature (IUCN), African lions are classified as vulnerable, with populations declining across their range.`,
       about5a:``,
       about5b:``,
       about5c:``,
-      fourth:``,
-      about7:``,
-      about7a:``,
-      about7b:``,
-      about7c:``,
-      about7d:``  
+      fourth:`Conservation Efforts to Protect African Lions:`,
+      about7:`Conservation organizations and local communities are working tirelessly to protect African lions and ensure their survival. These efforts include habitat conservation, anti-poaching measures, community-based conservation programs, and education and awareness initiatives. Many conservation organizations, such as the Lion Recovery Fund and Panthera, are actively involved in research, monitoring, and conservation efforts to protect lion populations and their habitats. These organizations work closely with local communities to develop sustainable solutions that benefit both lions and people, such as supporting community-led conservation initiatives and providing incentives for coexisting with lions.`,
+      fifth:`How We Can Help`,
+      about8b:`As individuals, there are several ways we can contribute to the conservation of African lions:`,
+      about8c:`• Support Conservation Organizations: Donate to reputable organizations that are actively involved in lion conservation efforts. Your financial support can help fund critical conservation programs on the ground.`,
+      about8d:`• Spread Awareness: Educate yourself and others about the challenges faced by African lions and the importance of their conservation. Share information on social media, engage in discussions, and raise awareness in your community.`,
+      about8d:`Make Sustainable Choices: Avoid engaging in activities that harm lions or their habitats, such as supporting captive lion breeding or participating in canned hunting. Choose responsible tourism operators who prioritize conservation and ethical practices.`,
+      about9:`Engage in Responsible Wildlife Viewing: If you have the opportunity to see lions in the wild, do so with a responsible wildlife viewing operator that follows ethical guidelines, maintains a safe distance, and respects the animals' natural behavior.`,
+    
+      seventh:`final word`,
+      about11:`African lions are facing significant threats, and their conservation is crucial for the survival of this iconic species. Conservation efforts by organizations and local communities are making a difference, but individual contributions are also essential. By supporting conservation organizations, spreading awareness, making sustainable choices, and engaging in responsible wildlife viewing, we can all play a role in protecting Africa's lions and ensuring that they continue to roam the savannah for generations to come.`
 
-    }*/
+    },
+
+    {
+
+      id:"plastics",
+    from:`Stories`,
+    name:`Plastic Pollution: The Damaging Impact of Plastics on environment`,
+    img:`https://images.pexels.com/photos/15060365/pexels-photo-15060365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1` ,
+    img2:`https://cdn.pixabay.com/photo/2013/03/01/18/03/bottles-87342_960_720.jpg`,
+    img3:`https://cdn.pixabay.com/photo/2015/02/10/20/14/plastic-631625_960_720.jpg`,
+    about2:`Plastics have become an integral part of our modern society, used in various industries and products due to their durability and versatility. However, the widespread use of plastics has led to a growing concern over their damaging impact on the environment and society. In this article, we will delve into the negative effects of plastic pollution on our planet, wildlife, human health, and ways we can combat this pressing issue.`,
+    about3:` `,
+    Second:`The Environmental Consequences of Plastic Pollution:`,
+    about5:'Plastic pollution has become a major environmental problem worldwide. Plastics are non-biodegradable and can persist in the environment for hundreds of years, resulting in accumulation and littering in oceans, rivers, forests, and other natural habitats. This pollution poses a serious threat to marine life, with millions of marine animals dying each year due to ingestion or entanglement in plastic debris. Additionally, plastic pollution affects ecosystems, disrupting natural processes and threatening biodiversity.',
+    about5a:``,
+    about5b:``,
+    about5c:``,
+    fourth:`The Impact on Wildlife:`,
+    about7:`The impact of plastic pollution on wildlife is devastating. Marine animals often mistake plastic debris for food, leading to internal injuries, starvation, and death. Seabirds, turtles, seals, and whales are among the most affected species. Microplastics, tiny particles that result from the breakdown of larger plastic items, are also ingested by marine life, entering the food chain and potentially causing harm to the entire ecosystem`,
+    fifth:`The Health Risks to Humans:`,
+    about8b:`Plastic pollution also poses risks to human health. Plastics contain harmful chemicals, such as bisphenols and phthalates, which can leach into the environment and contaminate food and water sources. These chemicals have been linked to various health issues, including hormonal disruption, reproductive problems, and cancer. Additionally, microplastics have been found in the air we breathe, the water we drink, and the food we consume, raising concerns about their potential impacts on human health.`,
+  sixth:`Combatting Plastic Pollution`,
+  about9:`Efforts to combat plastic pollution are underway at various levels, from local communities to global initiatives. Many countries have implemented regulations to reduce plastic waste, such as banning single-use plastics, promoting recycling, and encouraging sustainable practices. However, more needs to be done. Individuals can also contribute to the fight against plastic pollution by reducing their own plastic consumption, properly disposing of plastics, and participating in community clean-up events. Education and awareness about the impacts of plastic pollution are also crucial in driving change.`,
+  ninth:`Final word`,
+  about13:`Plastic pollution is a pressing environmental issue that has damaging impacts on society. It threatens our environment, wildlife, and human health. Combatting plastic pollution requires collective efforts, from government regulations to individual actions. It's essential to reduce our consumption of plastics, properly manage plastic waste, and promote sustainable alternatives. By taking action today, we can help mitigate the damaging impact of plastics on our planet and create a cleaner, healthier future for generations to come.`
+
+  },
+  {
+
+    id:'Understanding Environmental Psychology: Our Obligations to the Natural World',
+  from:`Stories`,
+  name:`Understanding Environmental Psychology: Our Obligations to the Natural World`,
+  img:`https://images.pexels.com/photos/2189700/pexels-photo-2189700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1` ,
+  img2:``,
+  img3:`https://images.pexels.com/photos/7625160/pexels-photo-7625160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+  about2:`Environmental psychology is a field of study that examines how humans perceive, experience, and interact with their environment. It encompasses a wide range of topics, including our attitudes towards nature, our behaviors in natural settings, and the psychological impacts of environmental issues such as climate change and biodiversity loss. The field draws on theories and research from psychology, sociology, ecology, and other disciplines to understand the complex interactions between humans and their environment.`,
+  about3:`As human beings, we are intrinsically connected to the environment in which we live. The way we interact with and perceive our surroundings can have a significant impact on our mental well-being, as well as on the health of the planet. This is where environmental psychology comes into play, shedding light on the relationship between humans and nature, and why it is crucial for us to understand our position and obligations to the natural world. `,
+  Second:``,
+  about5:'',
+  about5a:`One of the key concepts in environmental psychology is the idea of "place." Place refers to the meanings and emotions that individuals attach to specific locations or environments. Our perception of place is shaped by our personal experiences, cultural backgrounds, and social contexts. For example, a forest may evoke feelings of peace and tranquility for one person, while it may trigger anxiety and fear in another due to past negative experiences. Understanding these individual differences in how people perceive and experience places is essential in designing environments that promote human well-being and sustainable behaviors.`,
+  about5b:`In addition to the positive impacts of nature on mental health, environmental psychology also examines the negative psychological impacts of environmental issues such as climate change and biodiversity loss. The increasing awareness of these issues and their potential consequences on our planet can lead to feelings of anxiety, grief, and helplessness, collectively known as "eco-anxiety." Understanding the psychological impacts of environmental issues is critical in developing effective strategies for mitigating and adapting to these challenges, and in fostering sustainable behaviors that protect our natural world.`,
+  about5c:`Furthermore, environmental psychology emphasizes the importance of our attitudes and behaviors towards the environment. Our attitudes towards nature, including our perceptions of its value, can influence our behaviors towards the environment, such as our willingness to conserve resources, reduce waste, and support environmental policies. Understanding these attitudes and behaviors can inform the development of environmental education and communication strategies that promote pro-environmental behaviors and attitudes, and ultimately contribute to the conservation and protection of our natural resources.`,
+  fourth:``,
+  about7:`Another important area of research in environmental psychology is the relationship between nature and mental health. Numerous studies have shown that exposure to nature, whether it's through activities like hiking or spending time in green spaces, can have positive effects on our mental well-being. Nature has been shown to reduce stress, improve mood, and enhance cognitive function. In fact, research has shown that even viewing nature scenes through a window or looking at nature photographs can have similar benefits. This highlights the importance of incorporating nature into our built environments, such as urban parks and green infrastructure, to promote mental health and well-being in our communities.`,
+  about7a:`In conclusion, environmental psychology plays a critical role in helping us understand our position and obligations to the natural world. By studying how humans perceive, experience, and interact with their environment, environmental psychology provides insights into how we can design environments that promote human well-being and sustainable behaviors. It also sheds light on the positive impacts of nature on mental health,`,
+  about7b:``,
+  about7c:``,
+  about7d:``  
+
+},
+{
+
+  id:2,
+from:`Stories`,
+name:``,
+img:`` ,
+img2:``,
+img3:``,
+about2:``,
+about3:` `,
+Second:``,
+about5:'',
+about5a:``,
+about5b:``,
+about5c:``,
+fourth:``,
+about7:``,
+about7a:``,
+about7b:``,
+about7c:``,
+about7d:``  
+
+},
+{
+
+  id:2,
+from:`Stories`,
+name:``,
+img:`` ,
+img2:``,
+img3:``,
+about2:``,
+about3:` `,
+Second:``,
+about5:'',
+about5a:``,
+about5b:``,
+about5c:``,
+fourth:``,
+about7:``,
+about7a:``,
+about7b:``,
+about7c:``,
+about7d:``  
+
+},
+{
+
+  id:2,
+from:`Stories`,
+name:``,
+img:`` ,
+img2:``,
+img3:``,
+about2:``,
+about3:` `,
+Second:``,
+about5:'',
+about5a:``,
+about5b:``,
+about5c:``,
+fourth:``,
+about7:``,
+about7a:``,
+about7b:``,
+about7c:``,
+about7d:``  
+
+}
 
 
  
