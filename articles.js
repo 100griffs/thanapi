@@ -563,7 +563,48 @@ about9:`In conclusion, poaching animals for ivory is a heartless act that has de
 image6:`https://static7.depositphotos.com/1156423/765/i/600/depositphotos_7651652-stock-photo-ivory-tusks.jpg`
 
 
-}
+},
+ {
+
+        id:2,
+      from:`Stories`,
+      name:``,
+      img:`https://etimg.etb2bimg.com/photo/89291380.cms` ,
+      img2:``,
+      img3:`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQduRAtpmpXeb-ntWpFmWx4e2Ll59lBGeqtK8H6bwNanpWOnK8-2xmgfapMMhoe4m2Fxu8&usqp=CAU`,
+      about2:`What is green energy? Green hydrogen, • also known as renewable hydrogen, is produced from renewable sources of energy, such as solar, wind, or hydropower, through a process called electrolysis. During electrolysis, renewable electricity is used to split water (H2O) into hydrogen (H2) and oxygen (O2), with only water as the byproduct. This makes green hydrogen a truly sustainable and environmentally friendly alternative to traditional hydrogen production methods.`,
+      about3:` `,
+      Second:`Green energy potential`,
+      about5:'One of the key advantages of green hydrogen is its potential to significantly reduce greenhouse gas emissions. Currently, the majority of hydrogen production is based on fossil fuels, primarily natural gas, through a process called steam methane reforming (SMR), which produces carbon dioxide as a byproduct, contributing to climate change. In contrast, green hydrogen production emits zero greenhouse gas emissions, as it uses renewable electricity to power the electrolysis process.',
+      about5a:`Green hydrogen also has the potential to help decarbonize hard-to-abate sectors of the economy, such as heavy transportation and industrial processes. Hydrogen can be used as a clean fuel for fuel cell vehicles, emitting only water vapor when used as a source of energy, eliminating harmful emissions from fossil fuels.`,
+      about5b:`Moreover, green hydrogen can also contribute to economic growth and job creation. The production, storage, and distribution of green hydrogen require specialized infrastructure and expertise, which can stimulate investments and create new jobs in the renewable energy sector. `,
+      about5c:`In conclusion, green hydrogen holds great promise as a solution for the environmental crisis. Its ability to produce zero greenhouse gas emissions, decarbonize hard-to-abate sectors, create jobs, and store renewable energy make it a compelling option for addressing climate change and achieving sustainable development.`,
+  
+
+    },
+    {
+
+      id:2,
+    from:`Stories`,
+    name:`Seabins: what are sea bins and how they can help oceans and marine life`,
+    img:`https://assets.weforum.org/article/image/responsive_big_webp_US2ivxk1Am0m-EC9QdcKIZK0l60JoYc9OzenOL7VvLs.webp` ,
+    img2:``,
+    img3:`https://cdn.shopify.com/s/files/1/0098/1362/2848/products/Seabin_2_800x.jpg?v=1562070668`,
+    about2:`Seabins are innovative devices designed to help tackle the problem of marine pollution and protect our oceans. These small, floating trash collectors are typically installed in marinas, harbors, and other areas with high levels of marine debris. They work by using a pump to draw water into a collection bag, capturing floating debris, microplastics, and other pollutants before they enter the ocean.`,
+    about3:` `,
+    Second:``,
+    about5:'One of the key benefits of seabins is their ability to prevent marine debris from harming marine life. Plastic pollution in the ocean poses a severe threat to marine species, who can ingest or become entangled in plastic debris, leading to injury, death, and disruption of marine ecosystems. Seabins can help intercept plastic waste and other pollutants, reducing the risk of harm to marine life.',
+    about5a:``,
+    about5b:`seabins contribute to local and global efforts to address marine pollution and protect ocean health. They complement other initiatives, such as beach cleanups, plastic waste reduction campaigns, and policy measures to reduce single-use plastics. Seabins can also serve as a tool for research and monitoring, providing data on the types and quantities of pollutants in marine environments.`,
+    about5c:``,
+    fourth:`In conclusion, seabins are innovative solutions that can help protect our oceans by capturing marine debris, raising awareness about the problem of marine pollution, and contributing to local and global efforts to combat plastic waste and other pollutants. By working together with other measures, seabins can contribute to cleaner and healthier oceans, supporting marine life and preserving these precious ecosystems for future generations.`,
+    
+
+  },
+  
+
+  
+
 
 
  
