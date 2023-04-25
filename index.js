@@ -75,3 +75,4 @@ app.get('/Quotes', (req,res)=>{
   res.send(Stories.find((Gi)=>Gi.name===name))
  })
 
+ app.listen(process.env.PORT||3000)
