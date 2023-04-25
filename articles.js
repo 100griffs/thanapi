@@ -303,6 +303,7 @@ export const Stories=[
 
 
   },
+  
 
   {id:2,
   from:`Stories`,
@@ -320,6 +321,21 @@ export const Stories=[
 
 
   },
+  {id:`Resilient Fishing`,
+    from:`Stories`,
+    name:`Resilient Fishing: A Key to Sustainable Fisheries`,
+    img:`https://images.pexels.com/photos/4830329/pexels-photo-4830329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1` ,
+    img2:`https://images.pexels.com/photos/3775188/pexels-photo-3775188.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+    img3:`https://conservefish.org/wordpress/wp-content/uploads/Rose-cannon-fisheries-pic.jpg`,
+    about2:`Resilient fishing is a strategy that aims to increase the resilience of fish populations and the communities that depend on them. It involves practices that promote sustainable fishing, such as limiting catch sizes, protecting breeding grounds, and reducing bycatch. Resilient fishing also takes into account the impacts of climate change on fish populations and ecosystems, and adapts fishing practices accordingly.`,
+    about3:`One of the key benefits of resilient fishing is that it can help ensure the long-term sustainability of fish populations. By using sustainable practices, fish populations can recover and thrive, providing a stable source of food and income for fishermen and their communities. This, in turn, can help alleviate poverty and improve the well-being of coastal communities around the world.`,
+    about7:'Resilient fishing can also help protect the wider marine ecosystem. By reducing bycatch, protecting breeding grounds, and limiting the size and frequency of fishing',
+    about8:`Resilient fishing can also help combat climate change. As the oceans warm and sea levels rise, many fish populations are shifting to new areas. By adapting fishing practices to these changes, we can ensure that fish populations remain healthy and productive. This, in turn, can help mitigate the impacts of climate change on the fishing industry and the communities that depend on it.`,
+    about8b:`In conclusion, resilient fishing is a key strategy for promoting sustainability in the fishing industry.`,
+    about8c:` By promoting sustainable practices, protecting fish populations and the marine ecosystem, and adapting to the impacts of climate change, we can ensure that fishing remains a viable and sustainable source of food and income for communities around the world. Let us all do our part in supporting resilient fishing practices to help preserve the future of our oceans and the communities that depend on them.`,
+  
+  
+    },
   {id:'bees for you',
     from:`Stories`,
     name:`Bees for you and me`,
@@ -566,7 +582,7 @@ image6:`https://static7.depositphotos.com/1156423/765/i/600/depositphotos_765165
 },
  {
 
-        id:2,
+        id:`green hydrogen`,
       from:`Stories`,
       name:`What is Green hydrogen`,
       img:`https://etimg.etb2bimg.com/photo/89291380.cms` ,
@@ -584,7 +600,7 @@ image6:`https://static7.depositphotos.com/1156423/765/i/600/depositphotos_765165
     },
     {
 
-      id:2,
+      id:`seabins`,
     from:`Stories`,
     name:`Seabins: what are sea bins and how they can help oceans and marine life`,
     img:`https://assets.weforum.org/article/image/responsive_big_webp_US2ivxk1Am0m-EC9QdcKIZK0l60JoYc9OzenOL7VvLs.webp` ,
@@ -603,7 +619,7 @@ image6:`https://static7.depositphotos.com/1156423/765/i/600/depositphotos_765165
   },
   {
 
-    id:2,
+    id:'aquaponics',
   from:`Stories`,
   name:`Aquaponics: A Sustainable Solution for Healthy Food and a Healthier Environment`,
   img:`https://cdn.shopify.com/s/files/1/2307/4917/files/4_721f098e-aa1d-45a9-9c2e-b7c7e7791606_600x600.jpg?v=1655988118` ,
