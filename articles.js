@@ -568,11 +568,11 @@ image6:`https://static7.depositphotos.com/1156423/765/i/600/depositphotos_765165
 
         id:2,
       from:`Stories`,
-      name:``,
+      name:`What is Green hydrogen ?,`,
       img:`https://etimg.etb2bimg.com/photo/89291380.cms` ,
       img2:``,
       img3:`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQduRAtpmpXeb-ntWpFmWx4e2Ll59lBGeqtK8H6bwNanpWOnK8-2xmgfapMMhoe4m2Fxu8&usqp=CAU`,
-      about2:`What is green energy? Green hydrogen, • also known as renewable hydrogen, is produced from renewable sources of energy, such as solar, wind, or hydropower, through a process called electrolysis. During electrolysis, renewable electricity is used to split water (H2O) into hydrogen (H2) and oxygen (O2), with only water as the byproduct. This makes green hydrogen a truly sustainable and environmentally friendly alternative to traditional hydrogen production methods.`,
+      about2:`What is Green hydrogen ?, • also known as renewable hydrogen, is produced from renewable sources of energy, such as solar, wind, or hydropower, through a process called electrolysis. During electrolysis, renewable electricity is used to split water (H2O) into hydrogen (H2) and oxygen (O2), with only water as the byproduct. This makes green hydrogen a truly sustainable and environmentally friendly alternative to traditional hydrogen production methods.`,
       about3:` `,
       Second:`Green energy potential`,
       about5:'One of the key advantages of green hydrogen is its potential to significantly reduce greenhouse gas emissions. Currently, the majority of hydrogen production is based on fossil fuels, primarily natural gas, through a process called steam methane reforming (SMR), which produces carbon dioxide as a byproduct, contributing to climate change. In contrast, green hydrogen production emits zero greenhouse gas emissions, as it uses renewable electricity to power the electrolysis process.',
