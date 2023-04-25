@@ -13,7 +13,11 @@ app.get('/',(req,res)=>{res.send('hello from the natura.api')});
 app.get('/endangered', (req,res)=>{
     res.send(endangered)
 
-})
+});
+
+app.get('/than',(req,res)=>{
+  res.sendFile('views/than.html')
+});
 
 
 
