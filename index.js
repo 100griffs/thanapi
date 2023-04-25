@@ -15,11 +15,6 @@ app.get('/endangered', (req,res)=>{
 
 });
 
-app.get('/than',(req,res)=>{
-  res.sendFile('views/than.html')
-});
-
-
 
 app.get('/endangered/:name', (req,res)=>{
   const {name} =req.params
