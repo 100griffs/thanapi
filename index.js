@@ -1,6 +1,7 @@
 import express  from "express";
 import  cors from 'cors'
 
+
 const app = express();
 app.use(cors())
 import {endangered, extinct } from "./try.js";
@@ -13,6 +14,12 @@ app.get('/endangered', (req,res)=>{
     res.send(endangered)
 
 })
+app.use(express.static(__dirname));
+
+app.get('/', (req, res) => {
+	res.sendFile(__dirname + '/than.html');
+});
+
 app.get('/endangered/:name', (req,res)=>{
   const {name} =req.params
 res.send(endangered.find((Giant)=>Giant.name ===name))
