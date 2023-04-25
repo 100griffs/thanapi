@@ -568,7 +568,7 @@ image6:`https://static7.depositphotos.com/1156423/765/i/600/depositphotos_765165
 
         id:2,
       from:`Stories`,
-      name:`What is Green hydrogen ?,`,
+      name:`What is Green hydrogen`,
       img:`https://etimg.etb2bimg.com/photo/89291380.cms` ,
       img2:``,
       img3:`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQduRAtpmpXeb-ntWpFmWx4e2Ll59lBGeqtK8H6bwNanpWOnK8-2xmgfapMMhoe4m2Fxu8&usqp=CAU`,
