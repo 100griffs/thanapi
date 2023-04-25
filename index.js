@@ -14,11 +14,8 @@ app.get('/endangered', (req,res)=>{
     res.send(endangered)
 
 })
-app.use(express.static(__dirname));
 
-app.get('/', (req, res) => {
-	res.sendFile(__dirname + '/than.html');
-});
+
 
 app.get('/endangered/:name', (req,res)=>{
   const {name} =req.params
@@ -79,17 +76,3 @@ app.get('/Quotes', (req,res)=>{
   res.send(Stories.find((Gi)=>Gi.name===name))
  })
 
-
-
-
-
-
-
-
-
-
-//json still fails to make it .. we try again tommorow
-
-
-
-app.listen(process.env.PORT || 8000)
