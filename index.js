@@ -8,6 +8,11 @@ import {endangered, extinct } from "./try.js";
 import {causes,Nature,Quotes,Stories} from "./articles.js";
 import way from "./way.js";
 
+import path from 'path';
+import { fileURLToPath } from 'url';
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
 app.get('/',(req,res)=>{res.send('hello from the natura.api')});
 
 app.get('/endangered', (req,res)=>{
@@ -73,6 +78,13 @@ app.get('/Quotes', (req,res)=>{
  app.get('/Stories/:name',(req,res)=>{
   const {name} =req.params
   res.send(Stories.find((Gi)=>Gi.name===name))
- })
+ });
+
+ app.get('/than', (req,res)=>{
+  res.sendFile(__dirname + '/than.html')
+
+})
+
+ 
 
  app.listen(process.env.PORT||3000)
