@@ -654,6 +654,25 @@ about7d:``
 
 },
 
+{
+
+  id:`lights`,
+from:`Stories`,
+name:`turning off lights not in use for a more sustainable living`,
+img2:`https://images.pexels.com/photos/355904/pexels-photo-355904.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1` ,
+img:`https://www.heatrelieftoday.com/wp-content/uploads/2017/02/Save-energy-138422426.jpg`,
+img3:``,
+about2:`Turning off lights when not in use is a simple yet effective way to conserve energy and help the environment. By doing so, you can reduce your carbon footprint, save money on your energy bills, and contribute to a more sustainable future.`,
+about3:`The production of electricity often relies on the burning of fossil fuels such as coal, oil, and gas, which release greenhouse gases and contribute to climate change. By conserving energy, we can reduce the amount of electricity needed to power our homes and businesses, thereby reducing our overall impact on the environment. `,
+Second:``,
+about5:'In addition to reducing greenhouse gas emissions, conserving energy can also help preserve natural resources. The production of electricity requires the use of water and other natural resources, and by using less energy, we can help to conserve these resources for future generations.',
+about5a:`Turning off lights when leaving a room is a simple habit that can have a significant impact. Other energy-saving habits include using energy-efficient light bulbs, turning off electronic devices when not in use, and using natural light whenever possible.`,
+about5b:``,
+about5c:`So, the next time you leave a room, remember to turn off the lights. By doing so, you can do your part to help protect the environment and preserve natural resources for generations to come.`,
+
+
+}
+
     ]
 
 export const Quotes=[
