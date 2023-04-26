@@ -636,7 +636,7 @@ image6:`https://static7.depositphotos.com/1156423/765/i/600/depositphotos_765165
 
   id:'Noise Pollution and Its Impact on Wildlife: How to Limit Its Effects',
 from:`Stories`,
-name:``,
+name:'Noise Pollution and Its Impact on Wildlife: How to Limit Its Effects',
 img:`https://images.pexels.com/photos/72594/japan-train-railroad-railway-72594.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1` ,
 img2:`https://plutusias.com/wp-content/uploads/2022/09/asaj-300x225.png`,
 img3:`https://images.pexels.com/photos/3632689/pexels-photo-3632689.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
