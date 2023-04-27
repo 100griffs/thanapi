@@ -711,8 +711,23 @@ about5c:`So, the next time you leave a room, remember to turn off the lights. By
       image10:`https://www.eekwi.org/sites/default/files/istock-955664870.jpg`,
       about14:`The importance of these water bodies cannot be overstated. They provide habitats for numerous marine and freshwater species, regulate the earth's climate, and serve as a significant means of transportation. Additionally, many of these water bodies provide crucial sources of freshwater for the surrounding communities and play a significant role in the economy of the regions surrounding them.`,
       about15:`In conclusion, the top ten biggest water bodies in the world are crucial for our survival and the survival of numerous species on earth. We must do our part in preserving and protecting these water bodies to ensure they continue to serve their vital roles.`
-
     },
+
+      {
+
+    id:'Barbary lions',
+  from:`Stories`,
+  name:`Barbary lions: A struggle to reintroduce the king`,
+  img:`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVSdC1Biht2F4kWdB2n5vzmFU1DVsMj3E0SQ&usqp=CAU` ,
+  img2:`https://www.researchgate.net/publication/236022631/figure/fig1/AS:299842812301312@1448499505054/A-lion-seen-in-the-Atlas-Mountains-during-a-flight-on-the-Casablanca-Dakar-air-route.png`,
+  img3:`https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8b60651c-472c-4d29-91b0-f4bcde2723f1/ddwery6-98ee53d0-cf35-4119-9556-f70af257cb00.jpg/v1/fill/w_900,h_652,q_75,strp/zoo_tycoon_profile__barbary_lion_by_bonnerscar_ddwery6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjUyIiwicGF0aCI6IlwvZlwvOGI2MDY1MWMtNDcyYy00ZDI5LTkxYjAtZjRiY2RlMjcyM2YxXC9kZHdlcnk2LTk4ZWU1M2QwLWNmMzUtNDExOS05NTU2LWY3MGFmMjU3Y2IwMC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.VknQl2oW6Gft2Hv7WWjwSI5A4iS4JuGUGvkxg5bXTCA`,
+  about2:`Barbary lions, also known as Atlas lions, were once found in the Atlas Mountains of North Africa, including the countries of Morocco, Algeria, Tunisia, and Libya. However, due to human activities such as hunting, habitat destruction, and capture for zoos, the Barbary lion became extinct in the wild in the 1960s.`,
+  about3:`Since then, there have been efforts to recover the Barbary lion population through captive breeding programs. While some zoos have been successful in breeding Barbary lions, many of these lions are not purebred and have mixed genetics with other lion subspecies. This has made it difficult to know exactly what a true Barbary lion looks like, and has hindered conservation efforts.`,
+  about7d:`However, there is hope for the recovery of the Barbary lion. In recent years, DNA analysis has allowed researchers to identify purebred Barbary lions and develop a plan to reintroduce them into the wild. The Barbary Lion Project, led by the Oxford University Wildlife Conservation Research Unit (WildCRU) in collaboration with Moroccan researchers, is working towards this goal.`,
+  about8:`The recovery of the Barbary lion is an important goal for conservationists, not just because of the lion's symbolic significance but also because of its ecological role. As top predators, lions play a crucial role in maintaining the balance of ecosystems, and their disappearance can have significant impacts on the entire ecosystem`,
+  about9:`While the road to recovery is long and difficult, there is hope that the Barbary lion can be reintroduced into the wild and thrive once again`
+
+},
 
     ]
 
