@@ -734,6 +734,7 @@ about5c:`So, the next time you leave a room, remember to turn off the lights. By
         id:`Livestock Farming and Biodiversity: How Habitat Loss Affects the Ecosystem`,
       from:`Stories`,
       name:`Livestock Farming and Biodiversity: How Habitat Loss Affects the Ecosystem`,
+      image3:`https://images.pexels.com/photos/5953799/pexels-photo-5953799.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
       img:`https://images.pexels.com/photos/162801/cows-dairy-cows-milk-food-162801.jpeg` ,
       img2:`https://www.gannett-cdn.com/-mm-/c999cda2721fc0a70a663bd89cdb31056be75e05/c=0-230-4599-2828/local/-/media/2017/04/18/WIGroup/Milwaukee/636281104395743863-MJS-FARMS-03OFX-NWS-WOOD-FARMS-55649879.JPG?width=660&height=373&fit=crop&format=pjpg&auto=webp`,
       img3:`https://img.hobbyfarms.com/wp-content/uploads/2015/09/15161450/cattle-farm-farming-02-factory-Socially-Responsible-Agriculture-Flickr.jpg`,
