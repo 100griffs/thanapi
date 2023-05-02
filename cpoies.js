@@ -21,3 +21,44 @@
       about7d:``  
 
     }*/
+
+
+       /*{ id:5,
+      from:`Stories`,
+      name:``,
+      img:``,
+      about2:``,
+      first:``,
+      about4:``,
+      image1:``,
+      second:``,
+      about5:' ',
+      image2:``,
+      third:``,
+      about6:``,
+      image3:``,
+      fourth:``,
+      about7:``,
+      image4:``,
+      fifth:``,
+      about8:``,
+      image5:``,
+      sixth:``,
+      about9:``,
+      image6:`,
+      seventh:``,
+      image7:``,
+      about11:``,
+      eighth:``,
+      image8:``,
+      about12:``,
+      ninth:``,
+      about13:``,
+       image9:``,
+      tenth:``,
+      about14:``,
+      image10:``,
+      about15:``
+
+    },
+    }*/
